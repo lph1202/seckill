@@ -1,0 +1,12 @@
+server:
+  port: 38380
+
+name: LPH
+
+address:
+  - beijing
+  - shanghai
+
+person:
+  name: 王嘉仪
+  father: LPH
